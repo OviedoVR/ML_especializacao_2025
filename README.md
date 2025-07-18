@@ -75,3 +75,8 @@ import seaborn as sns
 tips = sns.load_dataset('tips')
 tips.head()
 ```
+
+## Links úteis:
+
+- [Cheat Sheet Machine Learning](https://github.com/OviedoVR/ML_especializacao_2025/blob/main/cheatsheet/ML_cheat_sheet.ipynb)
+- [Compilado de Pandas](https://oviedovr.github.io/compilado-pandas/)
