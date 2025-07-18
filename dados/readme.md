@@ -10,4 +10,3 @@
 
 - `transactions`: transações em uma fintech
 - `validated_transactions`: transações fraudulentas validadas por equipe de análise de fraude
-
