@@ -45,7 +45,7 @@ Repositório destinado aos materiais de aula (turma 2025).
 
 
 ## Cases Hands-on (desenvolvimento do zero em aula):
-- Previsão do tempo de vida útil restante em baterias (regressão)
+- Previsão do valor a ser investido em campanhas de marketing (regressão)
 - Previsão do risco de crédito para uma base de clientes (classificação)
 - Segmentação de clientes de um shopping (agrupamento)
 
