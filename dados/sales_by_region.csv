@@ -1,0 +1,301 @@
+Sales Person;Geography;Product;Amount;Units
+Ram Mahesh;UK;Manuka Honey Choco;0;135
+Gunar Cockshoot;UK;Mint Chip Choco;21;168
+Brien Boise;New Zealand;70% Dark Bites;42;150
+Barr Faughny;Australia;Milk Bars;56;51
+Oby Sorrel;Australia;Milk Bars;63;123
+Husein Augar;USA;Baker's Choco Chips;98;159
+Carla Molina;Canada;Baker's Choco Chips;98;204
+Carla Molina;Australia;White Choc;154;21
+Brien Boise;Australia;After Nines;168;84
+Gigi Bohling;New Zealand;Smooth Sliky Salty;182;48
+Barr Faughny;Canada;Eclairs;189;48
+Ram Mahesh;Canada;Almond Choco;217;36
+Barr Faughny;New Zealand;99% Dark & Pure;238;18
+Oby Sorrel;New Zealand;Spicy Special Slims;245;288
+Barr Faughny;India;Milk Bars;252;54
+Husein Augar;New Zealand;Almond Choco;259;207
+Ches Bonnell;Canada;Choco Coated Almonds;280;87
+Carla Molina;India;After Nines;336;144
+Brien Boise;USA;Peanut Butter Cubes;357;126
+Gigi Bohling;UK;Drinking Coco;385;249
+Brien Boise;New Zealand;Spicy Special Slims;434;87
+Curtice Advani;Australia;White Choc;469;75
+Gigi Bohling;USA;After Nines;490;84
+Curtice Advani;Canada;Spicy Special Slims;497;63
+Gigi Bohling;New Zealand;After Nines;518;75
+Curtice Advani;India;Almond Choco;525;48
+Barr Faughny;USA;99% Dark & Pure;553;15
+Curtice Advani;New Zealand;70% Dark Bites;560;81
+Oby Sorrel;USA;Spicy Special Slims;567;228
+Ram Mahesh;Australia;Baker's Choco Chips;609;87
+Carla Molina;USA;99% Dark & Pure;609;99
+Ram Mahesh;Australia;85% Dark Bars;623;51
+Barr Faughny;UK;Fruit & Nut Bars;630;36
+Oby Sorrel;India;Eclairs;700;87
+Husein Augar;India;Eclairs;707;174
+Carla Molina;New Zealand;Raspberry Choco;714;231
+Barr Faughny;Canada;Organic Choco Syrup;798;519
+Gunar Cockshoot;USA;Peanut Butter Cubes;819;306
+Brien Boise;Australia;Milk Bars;819;510
+Carla Molina;USA;Organic Choco Syrup;847;129
+Carla Molina;Canada;Caramel Stuffed Bars;854;309
+Gigi Bohling;India;99% Dark & Pure;861;195
+Curtice Advani;Australia;Mint Chip Choco;938;6
+Husein Augar;India;Mint Chip Choco;938;189
+Gunar Cockshoot;New Zealand;Almond Choco;938;366
+Oby Sorrel;Canada;Milk Bars;945;75
+Curtice Advani;Australia;Peanut Butter Cubes;959;135
+Husein Augar;USA;Almond Choco;959;147
+Ches Bonnell;UK;Organic Choco Syrup;966;198
+Gunar Cockshoot;Canada;Caramel Stuffed Bars;973;162
+Barr Faughny;New Zealand;50% Dark Bites;1057;54
+Curtice Advani;USA;Orange Choco;1071;270
+Husein Augar;New Zealand;Manuka Honey Choco;1085;273
+Curtice Advani;Australia;Organic Choco Syrup;1134;282
+Carla Molina;India;Mint Chip Choco;1274;225
+Gunar Cockshoot;Canada;99% Dark & Pure;1281;18
+Ches Bonnell;Australia;50% Dark Bites;1281;75
+Curtice Advani;USA;Almond Choco;1302;402
+Curtice Advani;Canada;Manuka Honey Choco;1400;135
+Oby Sorrel;Canada;Organic Choco Syrup;1407;72
+Oby Sorrel;India;White Choc;1428;93
+Curtice Advani;India;Raspberry Choco;1442;15
+Carla Molina;India;Eclairs;1463;39
+Curtice Advani;New Zealand;Drinking Coco;1505;102
+Gigi Bohling;Canada;70% Dark Bites;1526;105
+Carla Molina;New Zealand;70% Dark Bites;1526;240
+Brien Boise;UK;Baker's Choco Chips;1561;27
+Ches Bonnell;India;White Choc;1568;96
+Barr Faughny;UK;After Nines;1568;141
+Barr Faughny;USA;Eclairs;1589;303
+Ram Mahesh;USA;Manuka Honey Choco;1617;126
+Ram Mahesh;New Zealand;70% Dark Bites;1624;114
+Ram Mahesh;USA;85% Dark Bars;1638;48
+Curtice Advani;UK;70% Dark Bites;1638;63
+Gigi Bohling;India;Peanut Butter Cubes;1652;93
+Gunar Cockshoot;UK;Caramel Stuffed Bars;1652;102
+Brien Boise;Australia;Fruit & Nut Bars;1701;234
+Brien Boise;New Zealand;99% Dark & Pure;1771;204
+Ches Bonnell;Australia;Drinking Coco;1778;270
+Barr Faughny;UK;White Choc;1785;462
+Brien Boise;New Zealand;After Nines;1890;195
+Curtice Advani;New Zealand;Mint Chip Choco;1904;405
+Carla Molina;Canada;99% Dark & Pure;1925;192
+Ches Bonnell;India;50% Dark Bites;1932;369
+Oby Sorrel;USA;Orange Choco;1974;195
+Ram Mahesh;Australia;Smooth Sliky Salty;1988;39
+Brien Boise;India;Mint Chip Choco;2009;219
+Barr Faughny;UK;Mint Chip Choco;2016;117
+Gunar Cockshoot;USA;Fruit & Nut Bars;2023;78
+Brien Boise;USA;Manuka Honey Choco;2023;168
+Curtice Advani;UK;White Choc;2100;414
+Gunar Cockshoot;USA;Manuka Honey Choco;2114;66
+Carla Molina;USA;Raspberry Choco;2114;186
+Ches Bonnell;USA;Mint Chip Choco;2135;27
+Husein Augar;Canada;White Choc;2142;114
+Ches Bonnell;Canada;Smooth Sliky Salty;2149;117
+Ches Bonnell;India;Orange Choco;2205;138
+Oby Sorrel;Australia;After Nines;2205;141
+Gunar Cockshoot;India;Fruit & Nut Bars;2212;117
+Curtice Advani;India;Mint Chip Choco;2219;75
+Ches Bonnell;India;Peanut Butter Cubes;2226;48
+Brien Boise;Australia;Organic Choco Syrup;2268;63
+Ram Mahesh;USA;70% Dark Bites;2275;447
+Ram Mahesh;India;Organic Choco Syrup;2289;135
+Curtice Advani;Australia;Milk Bars;2317;123
+Oby Sorrel;Canada;Fruit & Nut Bars;2317;261
+Carla Molina;New Zealand;Baker's Choco Chips;2324;177
+Husein Augar;Australia;Eclairs;2408;9
+Gigi Bohling;USA;Drinking Coco;2415;15
+Gunar Cockshoot;USA;50% Dark Bites;2415;255
+Husein Augar;USA;Organic Choco Syrup;2429;144
+Husein Augar;Australia;Baker's Choco Chips;2436;99
+Gunar Cockshoot;USA;White Choc;2464;234
+Oby Sorrel;Canada;Manuka Honey Choco;2471;342
+Ches Bonnell;USA;Organic Choco Syrup;2478;21
+Ram Mahesh;Australia;Manuka Honey Choco;2541;45
+Ram Mahesh;Australia;White Choc;2541;90
+Oby Sorrel;USA;Raspberry Choco;2562;6
+Gunar Cockshoot;India;Orange Choco;2583;18
+Husein Augar;UK;Drinking Coco;2639;204
+Husein Augar;Australia;Mint Chip Choco;2646;120
+Ches Bonnell;Canada;Drinking Coco;2646;177
+Curtice Advani;Australia;Smooth Sliky Salty;2681;54
+Brien Boise;USA;Orange Choco;2702;363
+Husein Augar;New Zealand;Fruit & Nut Bars;2737;93
+Gigi Bohling;USA;Almond Choco;2744;9
+Ram Mahesh;India;Fruit & Nut Bars;2779;75
+Ches Bonnell;USA;85% Dark Bars;2793;114
+Husein Augar;New Zealand;Baker's Choco Chips;2856;246
+Barr Faughny;New Zealand;Raspberry Choco;2863;42
+Ches Bonnell;Canada;99% Dark & Pure;2870;300
+Gigi Bohling;India;Manuka Honey Choco;2891;102
+Husein Augar;New Zealand;Caramel Stuffed Bars;2919;45
+Gunar Cockshoot;India;Eclairs;2919;93
+Carla Molina;New Zealand;Spicy Special Slims;2933;9
+Husein Augar;Canada;Choco Coated Almonds;2954;189
+Curtice Advani;UK;85% Dark Bars;2989;3
+Curtice Advani;UK;Manuka Honey Choco;3052;378
+Oby Sorrel;New Zealand;Caramel Stuffed Bars;3059;27
+Barr Faughny;Canada;Smooth Sliky Salty;3094;246
+Ram Mahesh;UK;Caramel Stuffed Bars;3101;225
+Gunar Cockshoot;India;Baker's Choco Chips;3108;54
+Ram Mahesh;Canada;Organic Choco Syrup;3164;306
+Husein Augar;UK;White Choc;3192;72
+Ches Bonnell;India;Choco Coated Almonds;3262;75
+Gunar Cockshoot;Canada;White Choc;3339;39
+Curtice Advani;India;Manuka Honey Choco;3339;75
+Gigi Bohling;Canada;Eclairs;3339;348
+Carla Molina;New Zealand;Orange Choco;3388;123
+Curtice Advani;India;70% Dark Bites;3402;366
+Oby Sorrel;USA;50% Dark Bites;3472;96
+Brien Boise;India;Smooth Sliky Salty;3507;288
+Barr Faughny;Australia;Almond Choco;3549;3
+Curtice Advani;New Zealand;Caramel Stuffed Bars;3556;459
+Brien Boise;USA;70% Dark Bites;3598;81
+Gunar Cockshoot;UK;Manuka Honey Choco;3640;51
+Gunar Cockshoot;India;Caramel Stuffed Bars;3689;312
+Brien Boise;Australia;Choco Coated Almonds;3752;213
+Curtice Advani;India;Eclairs;3759;150
+Gunar Cockshoot;Canada;Fruit & Nut Bars;3773;165
+Ram Mahesh;India;Peanut Butter Cubes;3794;159
+Oby Sorrel;USA;Drinking Coco;3808;279
+Ches Bonnell;India;Raspberry Choco;3829;24
+Husein Augar;Australia;White Choc;3850;102
+Curtice Advani;USA;Organic Choco Syrup;3864;177
+Husein Augar;UK;85% Dark Bars;3920;306
+Carla Molina;UK;50% Dark Bites;3976;72
+Gunar Cockshoot;New Zealand;Eclairs;3983;144
+Barr Faughny;UK;Peanut Butter Cubes;4018;126
+Ram Mahesh;India;99% Dark & Pure;4018;162
+Gigi Bohling;UK;85% Dark Bars;4018;171
+Oby Sorrel;India;After Nines;4053;24
+Husein Augar;Australia;85% Dark Bars;4137;60
+Curtice Advani;India;Organic Choco Syrup;4242;207
+Husein Augar;New Zealand;White Choc;4305;156
+Curtice Advani;Canada;Milk Bars;4319;30
+Barr Faughny;Australia;Smooth Sliky Salty;4326;348
+Barr Faughny;Australia;Fruit & Nut Bars;4417;153
+Ram Mahesh;Canada;Milk Bars;4424;201
+Ches Bonnell;UK;Eclairs;4438;246
+Gigi Bohling;USA;Manuka Honey Choco;4480;357
+Ches Bonnell;New Zealand;Eclairs;4487;111
+Ches Bonnell;New Zealand;Mint Chip Choco;4487;333
+Ches Bonnell;USA;99% Dark & Pure;4585;240
+Gunar Cockshoot;New Zealand;Manuka Honey Choco;4592;324
+Ches Bonnell;USA;50% Dark Bites;4606;63
+Oby Sorrel;New Zealand;Fruit & Nut Bars;4683;30
+Ram Mahesh;USA;Mint Chip Choco;4725;174
+Gigi Bohling;USA;Smooth Sliky Salty;4753;246
+Brien Boise;USA;Organic Choco Syrup;4753;300
+Carla Molina;USA;Milk Bars;4760;69
+Curtice Advani;USA;70% Dark Bites;4781;123
+Barr Faughny;UK;Raspberry Choco;4802;36
+Oby Sorrel;UK;Spicy Special Slims;4858;279
+Carla Molina;India;Fruit & Nut Bars;4935;126
+Curtice Advani;New Zealand;Fruit & Nut Bars;4949;189
+Gunar Cockshoot;UK;Baker's Choco Chips;4956;171
+Curtice Advani;Canada;Eclairs;4970;156
+Oby Sorrel;India;Baker's Choco Chips;4991;9
+Gigi Bohling;New Zealand;50% Dark Bites;4991;12
+Brien Boise;USA;After Nines;5012;210
+Brien Boise;Canada;Fruit & Nut Bars;5019;150
+Ram Mahesh;India;Eclairs;5019;156
+Gigi Bohling;Australia;Choco Coated Almonds;5075;21
+Ches Bonnell;USA;Caramel Stuffed Bars;5194;288
+Gigi Bohling;UK;Baker's Choco Chips;5236;51
+Ches Bonnell;New Zealand;Baker's Choco Chips;5306;0
+Oby Sorrel;India;99% Dark & Pure;5355;204
+Ram Mahesh;Canada;White Choc;5439;30
+Gigi Bohling;Australia;99% Dark & Pure;5474;168
+Ches Bonnell;Canada;Manuka Honey Choco;5551;252
+Oby Sorrel;Australia;50% Dark Bites;5586;525
+Ram Mahesh;Australia;Milk Bars;5670;297
+Ches Bonnell;Australia;Caramel Stuffed Bars;5677;258
+Ram Mahesh;UK;Raspberry Choco;5775;42
+Ram Mahesh;UK;After Nines;5817;12
+Carla Molina;Australia;After Nines;5915;3
+Barr Faughny;UK;Caramel Stuffed Bars;6027;144
+Curtice Advani;UK;Eclairs;6048;27
+Gigi Bohling;Canada;Drinking Coco;6111;3
+Curtice Advani;Canada;Choco Coated Almonds;6118;9
+Carla Molina;Canada;70% Dark Bites;6118;174
+Ram Mahesh;Australia;Almond Choco;6125;102
+Ram Mahesh;New Zealand;Organic Choco Syrup;6132;93
+Gigi Bohling;Canada;Milk Bars;6146;63
+Brien Boise;New Zealand;Baker's Choco Chips;6279;45
+Gigi Bohling;India;After Nines;6279;237
+Gunar Cockshoot;India;White Choc;6300;42
+Gigi Bohling;Canada;Fruit & Nut Bars;6314;15
+Ram Mahesh;UK;Organic Choco Syrup;6370;30
+Ches Bonnell;New Zealand;Peanut Butter Cubes;6391;48
+Carla Molina;New Zealand;85% Dark Bars;6398;102
+Brien Boise;Australia;Spicy Special Slims;6433;78
+Ches Bonnell;New Zealand;70% Dark Bites;6454;54
+Barr Faughny;Australia;Caramel Stuffed Bars;6580;183
+Ches Bonnell;New Zealand;50% Dark Bites;6608;225
+Gunar Cockshoot;USA;Raspberry Choco;6657;276
+Oby Sorrel;Canada;Choco Coated Almonds;6657;303
+Brien Boise;USA;Choco Coated Almonds;6706;459
+Curtice Advani;India;Choco Coated Almonds;6734;123
+Ram Mahesh;India;Baker's Choco Chips;6748;48
+Ches Bonnell;USA;70% Dark Bites;6755;252
+Curtice Advani;New Zealand;Baker's Choco Chips;6818;6
+Husein Augar;India;Spicy Special Slims;6832;27
+Ram Mahesh;USA;After Nines;6853;372
+Oby Sorrel;Australia;Almond Choco;6860;126
+Gigi Bohling;UK;After Nines;6909;81
+Gigi Bohling;India;Organic Choco Syrup;6986;21
+Brien Boise;UK;70% Dark Bites;7021;183
+Gigi Bohling;Australia;Milk Bars;7189;54
+Gunar Cockshoot;India;50% Dark Bites;7259;276
+Husein Augar;New Zealand;Orange Choco;7273;96
+Gigi Bohling;India;Raspberry Choco;7280;201
+Gunar Cockshoot;New Zealand;Caramel Stuffed Bars;7308;327
+Curtice Advani;Australia;Spicy Special Slims;7322;36
+Carla Molina;USA;Caramel Stuffed Bars;7455;216
+Gigi Bohling;Australia;White Choc;7483;45
+Barr Faughny;India;99% Dark & Pure;7511;120
+Barr Faughny;UK;Spicy Special Slims;7651;213
+Ram Mahesh;New Zealand;99% Dark & Pure;7693;21
+Curtice Advani;New Zealand;Smooth Sliky Salty;7693;87
+Ches Bonnell;India;Eclairs;7777;39
+Gunar Cockshoot;India;Choco Coated Almonds;7777;504
+Barr Faughny;UK;Organic Choco Syrup;7812;81
+Husein Augar;USA;Raspberry Choco;7833;243
+Carla Molina;India;Peanut Butter Cubes;7847;174
+Curtice Advani;India;Baker's Choco Chips;8008;456
+Husein Augar;India;Fruit & Nut Bars;8155;90
+Barr Faughny;Canada;Manuka Honey Choco;8211;75
+Ches Bonnell;Canada;After Nines;8435;42
+Husein Augar;India;Orange Choco;8463;492
+Gigi Bohling;New Zealand;White Choc;8813;21
+Gunar Cockshoot;Australia;Baker's Choco Chips;8841;303
+Ches Bonnell;India;85% Dark Bars;8862;189
+Ram Mahesh;USA;Peanut Butter Cubes;8869;432
+Brien Boise;UK;Smooth Sliky Salty;8890;210
+Ram Mahesh;New Zealand;Manuka Honey Choco;9002;72
+Husein Augar;Canada;70% Dark Bites;9051;57
+Gunar Cockshoot;Canada;Mint Chip Choco;9198;36
+Barr Faughny;UK;Orange Choco;9443;162
+Husein Augar;Australia;Peanut Butter Cubes;9506;87
+Carla Molina;Canada;Drinking Coco;9632;288
+Brien Boise;UK;Drinking Coco;9660;27
+Brien Boise;New Zealand;Raspberry Choco;9709;30
+Ram Mahesh;Canada;Peanut Butter Cubes;9772;90
+Ches Bonnell;New Zealand;After Nines;9835;207
+Barr Faughny;New Zealand;Eclairs;9926;201
+Curtice Advani;Canada;Almond Choco;10073;120
+Ches Bonnell;Australia;70% Dark Bites;10129;312
+Carla Molina;Canada;Choco Coated Almonds;10304;84
+Carla Molina;Canada;Milk Bars;10311;231
+Barr Faughny;Canada;Mint Chip Choco;11417;21
+Husein Augar;Canada;Organic Choco Syrup;11522;204
+Barr Faughny;New Zealand;Drinking Coco;11571;138
+Ram Mahesh;USA;Choco Coated Almonds;12348;234
+Oby Sorrel;UK;Peanut Butter Cubes;12950;30
+Gigi Bohling;USA;Raspberry Choco;13391;201
+Husein Augar;India;Caramel Stuffed Bars;14329;150
+Gigi Bohling;India;Orange Choco;15610;339
+Gigi Bohling;Canada;Mint Chip Choco;16184;39
