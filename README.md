@@ -1,7 +1,6 @@
-# Móudlo Machine Learning (ML) - Especialização Ciência de dados (UFN), turma 2025
+# Móudlo Machine Learning (ML) - Especialização Ciência de dados (UFN)
 
-
-Repositório destinado aos materiais de aula.
+Repositório destinado aos materiais de aula (turma 2025).
 
 ## Unidades/sub-unidades:
 
