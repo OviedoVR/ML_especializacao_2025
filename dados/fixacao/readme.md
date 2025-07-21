@@ -28,6 +28,6 @@
 |          Feature |                    Description |
 |------------------|--------------------------------|
 |      id          | ID do cliente                  |
-|      age         | Idade de cliente               |
-|      income      | Renda anual                    |
-|      score       | Potencial de compra (score)    |
+|      age         | idade de cliente               |
+|      income      | renda anual                    |
+|      score       | potencial de compra (score)    |
