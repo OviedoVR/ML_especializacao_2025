@@ -11,15 +11,15 @@
 
 `credit_risk.csv`: **dicionário de dados**
 
-|          Feature |                    Description |
-|------------------|--------------------------------|
-|      customer_id | customer id                    |
-|      overdue_sum | total overdue days             |
-|       pay_normal | number of times normal payment |
-|     credit_limit | credit   limit                 |
-|      new_balance | current balance                |
-|  highest_balance | highest balance in history     |
-| high_credit_risk | 1 if high credit risk, else 0  |
+|          Feature |                    Description      |
+|------------------|-------------------------------------|
+|      customer_id | ID do cliente                       |
+|      overdue_sum | total de dias em atraso             |
+|       pay_normal | no. de vezes pagamento normal       |
+|     credit_limit | limite de crédito                   |
+|      new_balance | saldo atual                         |
+|  highest_balance | maior saldo histórico               |
+| high_credit_risk | 1 alto risco de crédito; 0 se baixo |  
 
 <br>
 
@@ -27,7 +27,7 @@
 
 |          Feature |                    Description |
 |------------------|--------------------------------|
-|      id          | customer id                    |
-|      age         | customer age                   |
-|      income      | customer's annual income       |
-|      score       | buying potential               |
+|      id          | ID do cliente                  |
+|      age         | Idade de cliente               |
+|      income      | Renda anual                    |
+|      score       | Potencial de compra (score)    |
