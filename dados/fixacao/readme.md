@@ -11,15 +11,20 @@
 
 `credit_risk.csv`: **dicionário de dados**
 
-|          Feature |                    Description      |
-|------------------|-------------------------------------|
-|      customer_id | ID do cliente                       |
-|      overdue_sum | total de dias em atraso             |
-|       pay_normal | no. de vezes pagamento normal       |
-|     credit_limit | limite de crédito                   |
-|      new_balance | saldo atual                         |
-|  highest_balance | maior saldo histórico               |
-| high_credit_risk | 1 alto risco de crédito; 0 se baixo |  
+|        Coluna     |                          Descrição                          |
+|-------------------|----------------------------------------------------------------------|
+|      rev_util     | Utilização da linha de crédito em relação ao total disponível (0 a 1). |
+|        age        | A idade do tomador em anos.                                  |
+|    late_30_59     | Número de Vezes em Atraso de 30-59 Dias. Ajuda a avaliar o comportamento de inadimplência de curto prazo. |
+|     debt_ratio    | Proporção dos pagamentos mensais de dívida (incluindo empréstimos, pensão alimentícia, etc.) sobre o rendimento bruto mensal. Reflete a carga total de dívida do tomador. |
+|    monthly_inc    | A renda bruta mensal do tomador.                      |
+|    open_credit    | Número de Linhas de Crédito e Empréstimos Abertos. |
+|      late_90      | Número de Vezes em Atraso de 90 Dias. Indica problemas graves de inadimplência. |
+|    real_estate    | Número de Empréstimos ou Linhas Imobiliárias. |
+|    late_60_89     | Número de Vezes em Atraso de 60-89 Dias. Ajuda a avaliar o comportamento de inadimplência de médio prazo. |
+|    dependents     | Número de Dependentes. |
+|      dlq_2yrs     | Inadimplência Grave em 2 Anos – Variável alvo que indica se o tomador enfrentou uma inadimplência grave no período de dois anos. Valor 1 indica inadimplência; 0 indica ausência. |
+ 
 
 <br>
 
