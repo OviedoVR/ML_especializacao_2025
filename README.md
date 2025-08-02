@@ -1,4 +1,4 @@
-# Móudulo Machine Learning (ML) - Especialização CD (UFN)
+# Módulo Machine Learning (ML) - Especialização CD (UFN)
 
 Repositório destinado aos materiais de aula (turma 2025).
 
