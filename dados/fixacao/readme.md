@@ -36,3 +36,18 @@
 |      age         | idade de cliente               |
 |      income      | renda anual                    |
 |      score       | potencial de compra (score)    |
+
+<br>
+
+`kidney_disease_dataset.csv`: **dicionário de dados**
+
+| Nome da Coluna     | Descrição                                                                                          |
+|--------------------|----------------------------------------------------------------------------------------------------|
+| Age                | Idade do paciente em anos. Idade avançada aumenta o risco de DRC.                                  |
+| Creatinine_Level   | Nível de creatinina no sangue (mg/dL), um marcador chave da função renal.                          |
+| BUN                | Nível de nitrogênio ureico no sangue (mg/dL). Níveis elevados podem indicar DRC.                   |
+| Diabetes           | 1 se o paciente tem diabetes, caso contrário 0. Diabetes é um importante fator de risco.           |
+| Hypertension       | 1 se o paciente tem pressão alta, caso contrário 0. Frequentemente associado a problemas renais.   |
+| GFR                | Taxa de filtração glomerular (mL/min/1,73m²), a melhor medida da função renal.                     |
+| Urine_Output       | Urina produzida em mL/dia. Baixo débito pode indicar disfunção renal.                              |
+| CKD_Status         | 1 se o paciente tiver doença renal crônica, caso contrário 0.                                      |
